@@ -1,8 +1,8 @@
 class RipplingCli < Formula
   desc "Unified command-line tool to invoke Rippling services"
   homepage "https://github.com/Rippling/rippling-cli"
-  url "https://static-assets.ripplingcdn.com/cli/rippling-cli.0.1.0.tar.gz"
-  sha256 "eefd1bf65e0edab610b705afbd78e580a6f833838ed1cd104780e8fb858033a4"
+  url "https://static-assets.ripplingcdn.com/cli/rippling-cli.0.2.0.tar.xz"
+  sha256 "a77c078d89a603f8d86a223e4178f6081301d3ce58ea4324f354fa95e29cc141"
   license "Apache-2.0"
 
   def install
